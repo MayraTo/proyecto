@@ -11,9 +11,10 @@ body{
 h1 {
   color: #161313;
   background: #f30db9;
+  text-align: center;
   text-shadow: 4px 3px 0px #7A7A7A;
   color: #fc0b0b;
-  background: #be1b80;
+  background: #b983a5;
   font-size: 100px;
   -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
 box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
