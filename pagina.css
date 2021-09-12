@@ -1,6 +1,6 @@
 body{
 
-  background-image: url("https://image.freepik.com/vector-gratis/fondo-notas-musicales-color-morado_23-2147634349.jpg");
+  background-image: url("https://image.freepik.com/free-vector/spring-floral-pattern-background_8221-729.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: center;
@@ -10,11 +10,9 @@ body{
 
 h1 {
   color: #161313;
-  background: #f30db9;
   text-align: center;
   text-shadow: 4px 3px 0px #0c0101;
   color: #fc0b0b;
-  background: #ceb8c6;
   font-size: 100px;
   -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
 box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
