@@ -1,10 +1,11 @@
 body{
 
-  background-image: url("https://images.squarespace-cdn.com/content/5a42bc4cb7411cad318c1f12/1519743889222-5UG3U5E715D4ZLGAO54G/shutterstock_229497469.jpg?format=1000w&content-type=image%2Fjpeg");
+  background-image: url("https://th.bing.com/th/id/R.d0d49640098440098bd35c16f9989b13?rik=zOLva9%2f%2b%2f6Tx0A&riu=http%3a%2f%2fwww.v3wall.com%2fwallpaper%2f1600_1200%2f1003%2f1600_1200_20100327124003212930.jpg&ehk=JEfvlhX5fLiZ67KqR4mpc4HQSZ2Rum4ZHhD0smabxsQ%3d&risl=&pid=ImgRaw&r=0");
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: center;
   background-attachment: fixed;
+  
   
 }
 
@@ -18,7 +19,88 @@ h1 {
 box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
 
 
+h2 {
+  color: darkgreen;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
 }
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-1 {
+  width: 33%;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0); 
+  box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0);
+  background: beige;
+  margin-left: 10%;
+  display: inline-block;
+  border-radius: 10px;
+  }
+
+  .div-2 {
+    width: 33%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0);
+    background: beige;
+    margin-left: 10%;
+    display: inline-block;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    }
+
+.div-3 {
+    width: 33%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0);
+    background: beige;
+    margin-left: 10%;
+    display: inline-block;
+    border-radius: 10px;
+}
+.div-4 {
+    width: 33%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0);
+    background: beige;
+    margin-left: 10%;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.div-5 {
+    width: 33%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0);
+    background: beige;
+    margin-left: 10%;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.div-6 {
+    width: 33%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 15px 25px 10px rgba(0,0,0,0);
+    background: beige;
+    margin-left: 10%;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.imagen{
+    display:block;
+margin:auto;
+margin-left: 70px;
+}
+
+
 .mainmenubtn{
   background-color: rgba(172, 16, 133, 0.678);
   color: rgb(247, 240, 240);
@@ -72,6 +154,7 @@ box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
 #logo h1{
   font-family: 'Pacifico', cursive;
   font-size: 58px;
+  
 
 }
 
